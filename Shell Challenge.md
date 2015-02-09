@@ -2,7 +2,7 @@
 
 Complete the tutorial at http://www.tutorialspoint.com/unix/unix-shell.htm
 
-1. Given the following input data
+1. Given the following input data in a file called input.data...
 ---------------------------------
 
 ```
