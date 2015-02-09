@@ -3,9 +3,8 @@
 Complete the tutorial at http://www.tutorialspoint.com/unix/unix-shell.htm
 
 1. Report formatting
+--------------------
 Given the following input data in a file called input.data...
----------------------------------
-
 ```
 xbox_one 33 350
 ps4 15 300
@@ -46,3 +45,4 @@ Good, just finished teaching
 It's summer, so pretty nice
 ...
 ```
+ 
