@@ -29,10 +29,14 @@ http://codekata.com/kata/kata01-supermarket-pricing
 This repository includes a one-file sample app that uses the bottle framework and demonstrates authentication, subscriptions, and update processing. To try it out:
 
 Download bottle if you don't already have it: pip install bottle
+
 Download bottle-session if you don't already have it: pip install bottle-session
+
 Download and run a redis instance on port 6379 if you don't already have it. Check http://redis.io for instructions.
-Set your redirect URI to 'http://localhost:8515/oauth_callback' in your dev profile
+
 Open up sample_app.py, update it with your client_id and secret, and set redirect URI to 'http://localhost:8515/oauth_callback'
+
 Run the file; it will host a local server on port 8515.
+
 Try visiting http://localhost:8515 in your browser
 ```
