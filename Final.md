@@ -7,7 +7,7 @@ Resolve Git conflict
 
 Fork, clone and run the script at https://github.com/LittleByLittleLabs/create-git-conflict.sh
 
-Merge branch to master by resolving conflicts. 
+Merge branch to master by resolving conflicts. Turn in output of the commands that you used to solve this problem using `history`.
 
 
 **Two**:  
