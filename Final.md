@@ -24,6 +24,7 @@ http://codekata.com/kata/kata01-supermarket-pricing
 
 **Four**:  Write a script (Bash or Awk) which lists all the URLs referenced in www.google.com source code.
  
+Extra Credit (20 pts)
 **Five**:  Create a Vagrant file and a bash script to configure the software stack at https://github.com/Instagram/python-instagram
 ```
 This repository includes a one-file sample app that uses the bottle framework and demonstrates authentication, subscriptions, and update processing. To try it out:
