@@ -1,18 +1,24 @@
 Final
 =====================
 
-**One**:  Resolve Git conflict 
+**One**:
+
+Resolve Git conflict 
 Fork, clone and run the script at https://github.com/LittleByLittleLabs/create-git-conflict.sh
 
 Merge branch to master by resolving conflicts. 
 
 
-**Two**:  Build a SQL schema for Kata01: Supermarket Pricing
+**Two**:  
+
+Build a SQL schema for Kata01: Supermarket Pricing
 http://codekata.com/kata/kata01-supermarket-pricing
 
 **Note**: Must be valid SQL schema and expected to run using psql.
 
-**Three**:  Write a script (Bash or Awk) to download “Art of War” by Sun Tzu, parse and print a table of the following:
+**Three**:  
+
+Write a script (Bash or Awk) to download “Art of War” by Sun Tzu, parse and print a table of the following:
 
  - Top 15 most frequent words 
  - Least 15 frequent words
@@ -23,10 +29,14 @@ http://codekata.com/kata/kata01-supermarket-pricing
 
     https://www.gutenberg.org/files/132/132.txt
 
-**Four**:  Write a script (Bash or Awk) which lists all the URLs referenced in www.google.com source code.
+**Four**:  
+
+Write a script (Bash or Awk) which lists all the URLs referenced in www.google.com source code.
  
 Extra Credit (20 pts)
-**Five**:  Create a Vagrant file and a bash script to configure the software stack at https://github.com/Instagram/python-instagram
+**Five**:  
+
+Create a Vagrant file and a bash script to configure the software stack at https://github.com/Instagram/python-instagram
 ```
 This repository includes a one-file sample app that uses the bottle framework and demonstrates authentication, subscriptions, and update processing. To try it out:
 
