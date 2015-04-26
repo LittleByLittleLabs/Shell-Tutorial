@@ -9,13 +9,14 @@ Fork, clone and run the script at https://github.com/LittleByLittleLabs/create-g
 
 Merge branch to master by resolving conflicts. Turn in output of the commands that you used to solve this problem using `history`.
 
+Acceptence Criteria: Please remember to use Git best practices. 
 
 **Two**:  
 
 Build a SQL schema for Kata01: Supermarket Pricing
 http://codekata.com/kata/kata01-supermarket-pricing
 
-**Note**: Must be valid SQL schema and expected to run using psql.
+Acceptence Criteria: Must be valid SQL schema and expected to run using psql. Must also model the use cases discussed in class. Add comments to describe how your schema definition satiesfies the various use cases in the problem statement.
 
 **Three**:  
 
@@ -29,10 +30,14 @@ Write a script (Bash or Awk) to download “Art of War” by Sun Tzu, parse and 
  - Number of sentences
 
     https://www.gutenberg.org/files/132/132.txt
+    
+    Acceptence Criteria: Your script must read each line once. Please remember to use shell script best practices. 
 
 **Four**:  
 
 Write a script (Bash or Awk) which lists all the URLs referenced in www.google.com source code.
+
+Acceptence Criteria: Display all links (including relative, absolute, and http urls)
  
 **Five**: Extra Credit (10 pts)
  
@@ -51,3 +56,5 @@ Run `python sample_app.py`
 
 Try visiting http://localhost:8515 in your browser
 ```
+
+Acceptence Criteria: `vagrant up` should allow a curl command on `http://localhost:8515` to work.
