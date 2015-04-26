@@ -34,7 +34,7 @@ Write a script (Bash or Awk) to download “Art of War” by Sun Tzu, parse and 
 
 Write a script (Bash or Awk) which lists all the URLs referenced in www.google.com source code.
  
-**Five**: Extra Credit (20 pts)
+**Five**: Extra Credit (10 pts)
  
 
 Create a Vagrant file and a bash script to configure the software stack at https://github.com/Instagram/python-instagram
